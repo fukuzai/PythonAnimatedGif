@@ -1,4 +1,4 @@
-# PythonAnimatedGig
+# PythonAnimatedGif
 アニメーションgifを作るpythonスクリプト
 
 # Requirements
